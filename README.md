@@ -1,88 +1,21 @@
-# 👋 Hi, I'm Md. Abdullah Al Moin 🚀
+# 💫 About Me:
+I am a dedicated Computer Science & Engineering undergraduate with a strong interest in **Machine Learning, Artificial Intelligence, and Software Engineering**.  <br>I focus on building **robust, scalable, and data-driven solutions** through academic and practical projects.<br><br>I am passionate about:<br>- Applying **ML techniques** to real-world problems  <br>- Designing **efficient algorithms and systems**  <br>- Writing **clean, maintainable, and optimized code**  <br>- Continuously learning modern technologies and best practices  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
-🎓 **Computer Science & Engineering Undergraduate**  
-🤖 **Machine Learning Enthusiast | Full-Stack Learner**  
-💼 **Actively Seeking Internship Opportunities**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.abdullah.al.moin.785616) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-moin) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Md-Abdullah-Al-Moin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Md-Abdullah-Al-Moin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abdullah-Al-Moin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ✨ About Me
-I am a motivated CSE undergraduate with hands-on experience in **Machine Learning, AI, Web Development, and Database Systems**.  
-I enjoy building **real-world, data-driven applications** and academic projects with a focus on **clean code, scalability, and usability**.
-
-- 🔭 Working on **ML-based academic & AI projects**
-- 🌱 Learning **practical AI implementation & system design**
-- 🧠 Strong foundation in **DSA & Competitive Programming**
-- ⚡ Passionate about **professional UI & efficient systems**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Md-Abdullah-Al-Moin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Md-Abdullah-Al-Moin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 Machine Learning & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🌐 Web & Database
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🌦️ Weather Detect & Tic-Tac-Toe Game
-- Weather detection system combined with an interactive game module
-- Demonstrates API handling concepts and game logic implementation
-- Focus on user interaction, logic building, and clean code structure
-
----
-
-### 🌳 ARFF Tree Explorer (Python – AI Project)
-- AI-based tool for exploring and analyzing **ARFF datasets**
-- Implements **Decision Tree concepts** for data understanding
-- Helps visualize dataset structure used in ML workflows
-- Strong focus on Python-based data analysis & AI fundamentals
-
----
-
-### ⚙️ BMI Calculator (Assembly Language)
-- Low-level BMI calculation system using **Assembly language**
-- Accepts user input and computes accurate BMI values
-- Demonstrates strong understanding of **computer architecture**
-- Academic project focused on efficiency and logic precision
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
-
----
-
-## 📫 Connect With Me
-📧 **Email:** your-email@example.com  
-💼 **LinkedIn:** https://linkedin.com/in/your-profile  
-🌐 **Portfolio:** Coming Soon  
-
----
-
-⭐ *Open to internships, collaborations, and impactful software projects.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
