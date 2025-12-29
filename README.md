@@ -1,4 +1,14 @@
-# 💫 About Me:
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👨‍💻+MD+Abdullah+Al+Moin;🤖+Aspiring+ML+Engineer;⚡+Building+Intelligent+Solutions;🚀+Passionate+About+AI+%26+Innovation" alt="Typing SVG" />
+
+
+
+</div>
+
+---
+
+## 🌟 About Me:
 I am a dedicated Computer Science & Engineering undergraduate with a strong interest in **Machine Learning, Artificial Intelligence, and Software Engineering**.  <br>I focus on building **robust, scalable, and data-driven solutions** through academic and practical projects.<br><br>I am passionate about:<br>- Applying **ML techniques** to real-world problems  <br>- Designing **efficient algorithms and systems**  <br>- Writing **clean, maintainable, and optimized code**  <br>- Continuously learning modern technologies and best practices  
 
 
