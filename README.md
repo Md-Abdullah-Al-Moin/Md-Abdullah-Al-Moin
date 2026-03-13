@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me:
-I am a dedicated Computer Science & Engineering undergraduate with a strong interest in **Machine Learning, Artificial Intelligence, and Software Engineering**.  <br>I focus on building **robust, scalable, and data-driven solutions** through academic and practical projects.<br><br>I am passionate about:<br>- Applying **ML techniques** to real-world problems  <br>- Designing **efficient algorithms and systems**  <br>- Writing **clean, maintainable, and optimized code**  <br>- Continuously learning modern technologies and best practices  
+I am a dedicated Computer Science & Engineering undergraduate with a strong interest in **Machine Learning, Artificial Intelligence, and Unity Developer**.  <br>I focus on building **robust, scalable, and data-driven solutions** through academic and practical projects.<br><br>I am passionate about:<br>- Applying **ML techniques** to real-world problems  <br>- Designing **efficient algorithms and systems**  <br>- Writing **clean, maintainable, and optimized code**  <br>- Continuously learning modern technologies and best practices  
 
 
 ## 🌐 Socials:
